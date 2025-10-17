@@ -130,3 +130,4 @@ for idx, (image_path, text_line) in enumerate(zip(image_files, lines), 1):
     print(f"✅ Saved: {output_path}")
 
 print("\n🎉 All thumbnails generated successfully!")
+#Let me confirm that the code is complete and correct.

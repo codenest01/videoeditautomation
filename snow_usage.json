@@ -1,0 +1,11 @@
+{
+  "video_map": {
+    "video_a2892257.mp4": "medium_fall",
+    "video_6c06d8a4.mp4": "sparse_fast",
+    "video_ecd8f8b6.mp4": "slow_dense",
+    "video_7c149276.mp4": "medium_fall",
+    "video_ffd63005.mp4": "sparse_fast",
+    "video_57001b01.mp4": "light_breeze"
+  },
+  "video_counter": 6
+}

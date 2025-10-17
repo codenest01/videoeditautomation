@@ -1,0 +1,10 @@
+{
+  "video_map": {
+    "video_3e60da64.mp4": "fast_shift",
+    "video_0afbe7ca.mp4": "subtle_glitch",
+    "video_02cbcc83.mp4": "rgb_flicker",
+    "video_51f435cd.mp4": "red_shift",
+    "video_e432904b.mp4": "scanline"
+  },
+  "video_counter": 5
+}

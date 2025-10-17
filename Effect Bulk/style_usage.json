@@ -1,0 +1,2344 @@
+{
+  "video_map": {
+    "video_1f50714c.mp4": {
+      "font": 3,
+      "color": [
+        116,
+        77,
+        195
+      ],
+      "scale": 1.23,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_40571452.mp4": {
+      "font": 0,
+      "color": [
+        234,
+        212,
+        78
+      ],
+      "scale": 1.26,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_f7a61e8f.mp4": {
+      "font": 0,
+      "color": [
+        186,
+        61,
+        221
+      ],
+      "scale": 1.35,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ec0e0c0d.mp4": {
+      "font": 0,
+      "color": [
+        241,
+        142,
+        226
+      ],
+      "scale": 1.71,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ebcd4426.mp4": {
+      "font": 3,
+      "color": [
+        104,
+        134,
+        158
+      ],
+      "scale": 1.29,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_bac071d7.mp4": {
+      "font": 0,
+      "color": [
+        189,
+        228,
+        149
+      ],
+      "scale": 1.31,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_2e894995.mp4": {
+      "font": 3,
+      "color": [
+        116,
+        81,
+        81
+      ],
+      "scale": 1.54,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_956cd54a.mp4": {
+      "font": 2,
+      "color": [
+        130,
+        77,
+        161
+      ],
+      "scale": 1.31,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_d3276d64.mp4": {
+      "font": 7,
+      "color": [
+        207,
+        131,
+        203
+      ],
+      "scale": 1.8,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_7c2d4100.mp4": {
+      "font": 2,
+      "color": [
+        55,
+        236,
+        190
+      ],
+      "scale": 1.66,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_2208c391.mp4": {
+      "font": 3,
+      "color": [
+        174,
+        161,
+        133
+      ],
+      "scale": 1.28,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_d8260591.mp4": {
+      "font": 3,
+      "color": [
+        250,
+        189,
+        54
+      ],
+      "scale": 1.2,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_676fc173.mp4": {
+      "font": 0,
+      "color": [
+        189,
+        101,
+        90
+      ],
+      "scale": 1.67,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ab44665e.mp4": {
+      "font": 3,
+      "color": [
+        188,
+        223,
+        143
+      ],
+      "scale": 1.71,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_44eab0f0.mp4": {
+      "font": 2,
+      "color": [
+        52,
+        159,
+        254
+      ],
+      "scale": 1.61,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_68468d2e.mp4": {
+      "font": 3,
+      "color": [
+        72,
+        207,
+        72
+      ],
+      "scale": 1.68,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_bca80f1b.mp4": {
+      "font": 7,
+      "color": [
+        164,
+        135,
+        254
+      ],
+      "scale": 1.72,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_027b766e.mp4": {
+      "font": 0,
+      "color": [
+        255,
+        92,
+        50
+      ],
+      "scale": 1.6,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a66fdbc0.mp4": {
+      "font": 3,
+      "color": [
+        216,
+        113,
+        227
+      ],
+      "scale": 1.26,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_343a106f.mp4": {
+      "font": 2,
+      "color": [
+        196,
+        207,
+        168
+      ],
+      "scale": 1.53,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_94caac07.mp4": {
+      "font": 3,
+      "color": [
+        216,
+        137,
+        169
+      ],
+      "scale": 1.73,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_d3c29fd7.mp4": {
+      "font": 0,
+      "color": [
+        114,
+        68,
+        83
+      ],
+      "scale": 1.39,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_74c93658.mp4": {
+      "font": 3,
+      "color": [
+        120,
+        122,
+        95
+      ],
+      "scale": 1.51,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c9379d50.mp4": {
+      "font": 3,
+      "color": [
+        62,
+        226,
+        156
+      ],
+      "scale": 1.39,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_039d01f2.mp4": {
+      "font": 7,
+      "color": [
+        222,
+        217,
+        177
+      ],
+      "scale": 1.38,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_4fc6fd1b.mp4": {
+      "font": 3,
+      "color": [
+        103,
+        194,
+        218
+      ],
+      "scale": 1.38,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_1b94505a.mp4": {
+      "font": 2,
+      "color": [
+        189,
+        230,
+        231
+      ],
+      "scale": 1.73,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_4f7dd321.mp4": {
+      "font": 2,
+      "color": [
+        71,
+        75,
+        199
+      ],
+      "scale": 1.31,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ee148728.mp4": {
+      "font": 2,
+      "color": [
+        212,
+        87,
+        147
+      ],
+      "scale": 1.3,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_1b31a2e6.mp4": {
+      "font": 0,
+      "color": [
+        94,
+        211,
+        55
+      ],
+      "scale": 1.54,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_1026afb4.mp4": {
+      "font": 3,
+      "color": [
+        183,
+        255,
+        122
+      ],
+      "scale": 1.64,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_3ac493a0.mp4": {
+      "font": 7,
+      "color": [
+        230,
+        66,
+        215
+      ],
+      "scale": 1.52,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_f78e07d5.mp4": {
+      "font": 2,
+      "color": [
+        244,
+        236,
+        201
+      ],
+      "scale": 1.54,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_df1dd0c1.mp4": {
+      "font": 3,
+      "color": [
+        82,
+        253,
+        78
+      ],
+      "scale": 1.44,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_fb5ac64d.mp4": {
+      "font": 3,
+      "color": [
+        135,
+        127,
+        129
+      ],
+      "scale": 1.4,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_71b5d888.mp4": {
+      "font": 0,
+      "color": [
+        201,
+        166,
+        176
+      ],
+      "scale": 1.65,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_1dd86a15.mp4": {
+      "font": 0,
+      "color": [
+        129,
+        184,
+        210
+      ],
+      "scale": 1.39,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_883959ec.mp4": {
+      "font": 7,
+      "color": [
+        80,
+        118,
+        122
+      ],
+      "scale": 1.68,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_16b23298.mp4": {
+      "font": 7,
+      "color": [
+        139,
+        58,
+        176
+      ],
+      "scale": 1.52,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_9241c5ed.mp4": {
+      "font": 2,
+      "color": [
+        188,
+        70,
+        53
+      ],
+      "scale": 1.68,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_f1c410fd.mp4": {
+      "font": 7,
+      "color": [
+        114,
+        120,
+        176
+      ],
+      "scale": 1.72,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_33483367.mp4": {
+      "font": 7,
+      "color": [
+        98,
+        184,
+        120
+      ],
+      "scale": 1.68,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_9feaf72a.mp4": {
+      "font": 3,
+      "color": [
+        129,
+        209,
+        217
+      ],
+      "scale": 1.75,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_9164453e.mp4": {
+      "font": 3,
+      "color": [
+        60,
+        198,
+        238
+      ],
+      "scale": 1.44,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_8b7fc1b7.mp4": {
+      "font": 3,
+      "color": [
+        186,
+        138,
+        50
+      ],
+      "scale": 1.45,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_24f8351c.mp4": {
+      "font": 2,
+      "color": [
+        137,
+        93,
+        68
+      ],
+      "scale": 1.29,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_bdcfddd4.mp4": {
+      "font": 2,
+      "color": [
+        240,
+        179,
+        123
+      ],
+      "scale": 1.33,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_43b0d793.mp4": {
+      "font": 7,
+      "color": [
+        108,
+        190,
+        85
+      ],
+      "scale": 1.24,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_8c43db9a.mp4": {
+      "font": 0,
+      "color": [
+        161,
+        145,
+        103
+      ],
+      "scale": 1.78,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_3fd3fe4c.mp4": {
+      "font": 0,
+      "color": [
+        189,
+        248,
+        242
+      ],
+      "scale": 1.68,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_78d3947e.mp4": {
+      "font": 0,
+      "color": [
+        112,
+        215,
+        138
+      ],
+      "scale": 1.68,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_4b1fad89.mp4": {
+      "font": 0,
+      "color": [
+        152,
+        150,
+        211
+      ],
+      "scale": 1.36,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_00c8e5ea.mp4": {
+      "font": 0,
+      "color": [
+        181,
+        132,
+        158
+      ],
+      "scale": 1.55,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_cdcbd319.mp4": {
+      "font": 7,
+      "color": [
+        122,
+        195,
+        117
+      ],
+      "scale": 1.44,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_cddb8914.mp4": {
+      "font": 7,
+      "color": [
+        253,
+        224,
+        159
+      ],
+      "scale": 1.22,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_d7e5d7eb.mp4": {
+      "font": 7,
+      "color": [
+        87,
+        104,
+        214
+      ],
+      "scale": 1.74,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a79eb4e1.mp4": {
+      "font": 0,
+      "color": [
+        83,
+        84,
+        197
+      ],
+      "scale": 1.7,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_7089d0b2.mp4": {
+      "font": 0,
+      "color": [
+        237,
+        163,
+        165
+      ],
+      "scale": 1.78,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c658cac6.mp4": {
+      "font": 3,
+      "color": [
+        201,
+        85,
+        65
+      ],
+      "scale": 1.68,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c4410f7f.mp4": {
+      "font": 0,
+      "color": [
+        101,
+        53,
+        81
+      ],
+      "scale": 1.26,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_535d718c.mp4": {
+      "font": 3,
+      "color": [
+        235,
+        220,
+        85
+      ],
+      "scale": 1.54,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_fcfd6ff5.mp4": {
+      "font": 2,
+      "color": [
+        91,
+        103,
+        191
+      ],
+      "scale": 1.49,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_b8b7ed59.mp4": {
+      "font": 0,
+      "color": [
+        235,
+        158,
+        159
+      ],
+      "scale": 1.43,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_84e0fe31.mp4": {
+      "font": 2,
+      "color": [
+        230,
+        89,
+        71
+      ],
+      "scale": 1.5,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_7926e5f8.mp4": {
+      "font": 3,
+      "color": [
+        185,
+        116,
+        50
+      ],
+      "scale": 1.52,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_4a64687f.mp4": {
+      "font": 3,
+      "color": [
+        170,
+        228,
+        214
+      ],
+      "scale": 1.59,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a1abde66.mp4": {
+      "font": 3,
+      "color": [
+        68,
+        68,
+        142
+      ],
+      "scale": 1.41,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_97996790.mp4": {
+      "font": 2,
+      "color": [
+        168,
+        117,
+        145
+      ],
+      "scale": 1.74,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_2da962c5.mp4": {
+      "font": 2,
+      "color": [
+        254,
+        58,
+        194
+      ],
+      "scale": 1.67,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_71db6e82.mp4": {
+      "font": 2,
+      "color": [
+        197,
+        138,
+        62
+      ],
+      "scale": 1.32,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_3d2bdd49.mp4": {
+      "font": 2,
+      "color": [
+        125,
+        246,
+        62
+      ],
+      "scale": 1.3,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_14e17559.mp4": {
+      "font": 3,
+      "color": [
+        126,
+        145,
+        219
+      ],
+      "scale": 1.71,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_99eb7bc4.mp4": {
+      "font": 7,
+      "color": [
+        64,
+        128,
+        148
+      ],
+      "scale": 1.21,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_2d41d12c.mp4": {
+      "font": 7,
+      "color": [
+        128,
+        177,
+        221
+      ],
+      "scale": 1.61,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_73ea1d53.mp4": {
+      "font": 0,
+      "color": [
+        159,
+        191,
+        231
+      ],
+      "scale": 1.39,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_fb8c6b3b.mp4": {
+      "font": 7,
+      "color": [
+        169,
+        89,
+        98
+      ],
+      "scale": 1.64,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a62e49e2.mp4": {
+      "font": 2,
+      "color": [
+        85,
+        215,
+        76
+      ],
+      "scale": 1.53,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_3b3f705d.mp4": {
+      "font": 3,
+      "color": [
+        127,
+        104,
+        57
+      ],
+      "scale": 1.39,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_bd0f6698.mp4": {
+      "font": 3,
+      "color": [
+        176,
+        59,
+        184
+      ],
+      "scale": 1.62,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_f6268148.mp4": {
+      "font": 7,
+      "color": [
+        183,
+        98,
+        180
+      ],
+      "scale": 1.36,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_5c740a71.mp4": {
+      "font": 3,
+      "color": [
+        130,
+        148,
+        108
+      ],
+      "scale": 1.42,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_748105cf.mp4": {
+      "font": 0,
+      "color": [
+        67,
+        154,
+        90
+      ],
+      "scale": 1.73,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a4f4011c.mp4": {
+      "font": 2,
+      "color": [
+        82,
+        223,
+        81
+      ],
+      "scale": 1.71,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a268f180.mp4": {
+      "font": 0,
+      "color": [
+        234,
+        174,
+        99
+      ],
+      "scale": 1.5,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_6221ab4f.mp4": {
+      "font": 3,
+      "color": [
+        241,
+        221,
+        169
+      ],
+      "scale": 1.54,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_023218e0.mp4": {
+      "font": 2,
+      "color": [
+        58,
+        127,
+        182
+      ],
+      "scale": 1.49,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_d186e914.mp4": {
+      "font": 7,
+      "color": [
+        191,
+        154,
+        217
+      ],
+      "scale": 1.58,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_136a829a.mp4": {
+      "font": 7,
+      "color": [
+        161,
+        182,
+        65
+      ],
+      "scale": 1.21,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_b15fea9d.mp4": {
+      "font": 2,
+      "color": [
+        202,
+        107,
+        180
+      ],
+      "scale": 1.69,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_222db0e3.mp4": {
+      "font": 2,
+      "color": [
+        113,
+        163,
+        91
+      ],
+      "scale": 1.59,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_e2e4ab00.mp4": {
+      "font": 2,
+      "color": [
+        125,
+        120,
+        251
+      ],
+      "scale": 1.79,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_d510539a.mp4": {
+      "font": 3,
+      "color": [
+        227,
+        172,
+        251
+      ],
+      "scale": 1.64,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a2892257.mp4": {
+      "font": 0,
+      "color": [
+        218,
+        122,
+        232
+      ],
+      "scale": 1.38,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_6c06d8a4.mp4": {
+      "font": 2,
+      "color": [
+        66,
+        110,
+        241
+      ],
+      "scale": 1.29,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ecd8f8b6.mp4": {
+      "font": 2,
+      "color": [
+        152,
+        113,
+        77
+      ],
+      "scale": 1.7,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_7c149276.mp4": {
+      "font": 0,
+      "color": [
+        167,
+        85,
+        105
+      ],
+      "scale": 1.64,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ffd63005.mp4": {
+      "font": 3,
+      "color": [
+        60,
+        233,
+        223
+      ],
+      "scale": 1.65,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_57001b01.mp4": {
+      "font": 7,
+      "color": [
+        50,
+        87,
+        141
+      ],
+      "scale": 1.2,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_acc86d65.mp4": {
+      "font": 2,
+      "color": [
+        212,
+        158,
+        115
+      ],
+      "scale": 1.73,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_f7bcc211.mp4": {
+      "font": 0,
+      "color": [
+        99,
+        241,
+        230
+      ],
+      "scale": 1.33,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_d9a7330a.mp4": {
+      "font": 7,
+      "color": [
+        129,
+        149,
+        218
+      ],
+      "scale": 1.28,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_12203059.mp4": {
+      "font": 2,
+      "color": [
+        175,
+        160,
+        111
+      ],
+      "scale": 1.49,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_5dd83b75.mp4": {
+      "font": 0,
+      "color": [
+        119,
+        101,
+        138
+      ],
+      "scale": 1.53,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_3e60da64.mp4": {
+      "font": 3,
+      "color": [
+        242,
+        64,
+        243
+      ],
+      "scale": 1.33,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_0afbe7ca.mp4": {
+      "font": 7,
+      "color": [
+        102,
+        214,
+        235
+      ],
+      "scale": 1.31,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_02cbcc83.mp4": {
+      "font": 7,
+      "color": [
+        160,
+        131,
+        112
+      ],
+      "scale": 1.55,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_51f435cd.mp4": {
+      "font": 7,
+      "color": [
+        215,
+        78,
+        215
+      ],
+      "scale": 1.62,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_e432904b.mp4": {
+      "font": 2,
+      "color": [
+        103,
+        68,
+        150
+      ],
+      "scale": 1.3,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_4f5d958c.mp4": {
+      "font": 3,
+      "color": [
+        154,
+        85,
+        111
+      ],
+      "scale": 1.36,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c9e416d7.mp4": {
+      "font": 7,
+      "color": [
+        158,
+        96,
+        246
+      ],
+      "scale": 1.3,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_682b0931.mp4": {
+      "font": 0,
+      "color": [
+        160,
+        52,
+        92
+      ],
+      "scale": 1.43,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c945f172.mp4": {
+      "font": 7,
+      "color": [
+        112,
+        248,
+        53
+      ],
+      "scale": 1.7,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_638d22f4.mp4": {
+      "font": 0,
+      "color": [
+        125,
+        205,
+        105
+      ],
+      "scale": 1.78,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_db1add1c.mp4": {
+      "font": 7,
+      "color": [
+        60,
+        195,
+        196
+      ],
+      "scale": 1.33,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_3fd71a92.mp4": {
+      "font": 2,
+      "color": [
+        52,
+        104,
+        231
+      ],
+      "scale": 1.74,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c4d51310.mp4": {
+      "font": 0,
+      "color": [
+        194,
+        248,
+        155
+      ],
+      "scale": 1.24,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_4678e505.mp4": {
+      "font": 0,
+      "color": [
+        57,
+        65,
+        118
+      ],
+      "scale": 1.34,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_063a8db4.mp4": {
+      "font": 0,
+      "color": [
+        175,
+        70,
+        153
+      ],
+      "scale": 1.28,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_9ca0e61e.mp4": {
+      "font": 3,
+      "color": [
+        187,
+        252,
+        117
+      ],
+      "scale": 1.29,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a6779d88.mp4": {
+      "font": 7,
+      "color": [
+        187,
+        240,
+        227
+      ],
+      "scale": 1.36,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_19d38b55.mp4": {
+      "font": 2,
+      "color": [
+        215,
+        171,
+        252
+      ],
+      "scale": 1.56,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_037e1f5f.mp4": {
+      "font": 3,
+      "color": [
+        113,
+        219,
+        146
+      ],
+      "scale": 1.53,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_132ed4f0.mp4": {
+      "font": 2,
+      "color": [
+        100,
+        62,
+        241
+      ],
+      "scale": 1.44,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_291ece98.mp4": {
+      "font": 7,
+      "color": [
+        185,
+        98,
+        134
+      ],
+      "scale": 1.48,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_a5c833a3.mp4": {
+      "font": 7,
+      "color": [
+        55,
+        170,
+        89
+      ],
+      "scale": 1.31,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_28a3126b.mp4": {
+      "font": 0,
+      "color": [
+        166,
+        142,
+        69
+      ],
+      "scale": 1.75,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_bc2178b1.mp4": {
+      "font": 0,
+      "color": [
+        65,
+        141,
+        154
+      ],
+      "scale": 1.72,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_0b7a83b8.mp4": {
+      "font": 7,
+      "color": [
+        186,
+        86,
+        254
+      ],
+      "scale": 1.52,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_5f9a66d6.mp4": {
+      "font": 7,
+      "color": [
+        189,
+        77,
+        129
+      ],
+      "scale": 1.75,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_bbaf7e26.mp4": {
+      "font": 0,
+      "color": [
+        244,
+        235,
+        218
+      ],
+      "scale": 1.62,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ec681be8.mp4": {
+      "font": 0,
+      "color": [
+        94,
+        167,
+        242
+      ],
+      "scale": 1.57,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c9d67d76.mp4": {
+      "font": 3,
+      "color": [
+        75,
+        76,
+        71
+      ],
+      "scale": 1.63,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_163574f9.mp4": {
+      "font": 7,
+      "color": [
+        205,
+        139,
+        205
+      ],
+      "scale": 1.76,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c23d01ac.mp4": {
+      "font": 2,
+      "color": [
+        131,
+        143,
+        55
+      ],
+      "scale": 1.33,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_e08e25ac.mp4": {
+      "font": 7,
+      "color": [
+        175,
+        182,
+        68
+      ],
+      "scale": 1.58,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_2e1b9110.mp4": {
+      "font": 7,
+      "color": [
+        146,
+        194,
+        167
+      ],
+      "scale": 1.52,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_fd3434f3.mp4": {
+      "font": 0,
+      "color": [
+        79,
+        123,
+        130
+      ],
+      "scale": 1.62,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_00d0697a.mp4": {
+      "font": 3,
+      "color": [
+        104,
+        193,
+        70
+      ],
+      "scale": 1.24,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_53b55e4b.mp4": {
+      "font": 3,
+      "color": [
+        212,
+        82,
+        204
+      ],
+      "scale": 1.36,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ecd8d590.mp4": {
+      "font": 3,
+      "color": [
+        99,
+        205,
+        211
+      ],
+      "scale": 1.57,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_2a6fbf35.mp4": {
+      "font": 3,
+      "color": [
+        205,
+        75,
+        222
+      ],
+      "scale": 1.38,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c7fe2453.mp4": {
+      "font": 2,
+      "color": [
+        224,
+        214,
+        127
+      ],
+      "scale": 1.42,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_d9195454.mp4": {
+      "font": 7,
+      "color": [
+        132,
+        179,
+        89
+      ],
+      "scale": 1.48,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_292a4c87.mp4": {
+      "font": 3,
+      "color": [
+        219,
+        241,
+        169
+      ],
+      "scale": 1.21,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_5b9b8c44.mp4": {
+      "font": 0,
+      "color": [
+        70,
+        76,
+        65
+      ],
+      "scale": 1.21,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_0ea67306.mp4": {
+      "font": 0,
+      "color": [
+        154,
+        229,
+        228
+      ],
+      "scale": 1.3,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_b1f40e11.mp4": {
+      "font": 7,
+      "color": [
+        158,
+        235,
+        166
+      ],
+      "scale": 1.69,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_e870e9c6.mp4": {
+      "font": 3,
+      "color": [
+        227,
+        68,
+        197
+      ],
+      "scale": 1.35,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_bef032cd.mp4": {
+      "font": 0,
+      "color": [
+        119,
+        178,
+        71
+      ],
+      "scale": 1.26,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_af5759b0.mp4": {
+      "font": 0,
+      "color": [
+        223,
+        181,
+        169
+      ],
+      "scale": 1.33,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_5c2de62c.mp4": {
+      "font": 2,
+      "color": [
+        213,
+        115,
+        212
+      ],
+      "scale": 1.57,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_ad2d5590.mp4": {
+      "font": 7,
+      "color": [
+        174,
+        251,
+        62
+      ],
+      "scale": 1.7,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_c2c38ec6.mp4": {
+      "font": 3,
+      "color": [
+        192,
+        90,
+        253
+      ],
+      "scale": 1.43,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_5866eabd.mp4": {
+      "font": 2,
+      "color": [
+        90,
+        153,
+        249
+      ],
+      "scale": 1.41,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_fb782467.mp4": {
+      "font": 3,
+      "color": [
+        50,
+        90,
+        92
+      ],
+      "scale": 1.73,
+      "thickness": 2,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    },
+    "video_eb7fc232.mp4": {
+      "font": 7,
+      "color": [
+        150,
+        104,
+        60
+      ],
+      "scale": 1.76,
+      "thickness": 3,
+      "outline": [
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}
